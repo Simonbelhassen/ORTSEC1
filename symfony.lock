@@ -448,9 +448,6 @@
     "symfony/process": {
         "version": "v5.3.7"
     },
-    "symfony/profiler-pack": {
-        "version": "v1.0.6"
-    },
     "symfony/property-access": {
         "version": "v5.3.8"
     },
